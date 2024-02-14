@@ -69,7 +69,7 @@ where `p` is the success probability and `q = 1 - p`.
 ## Usage
 
 ```javascript
-import kurtosis from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-bernoulli-kurtosis@deno/mod.js';
+import kurtosis from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-bernoulli-kurtosis@v0.2.0-deno/mod.js';
 ```
 
 #### kurtosis( p )
@@ -120,7 +120,7 @@ v = kurtosis( -1.0 );
 ```javascript
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@deno/mod.js';
 import round from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-round@deno/mod.js';
-import kurtosis from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-bernoulli-kurtosis@deno/mod.js';
+import kurtosis from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-bernoulli-kurtosis@v0.2.0-deno/mod.js';
 
 var v;
 var i;
