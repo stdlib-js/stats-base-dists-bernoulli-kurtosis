@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`51e3867`](https://github.com/stdlib-js/stdlib/commit/51e3867e1ab01fd1496c7dbf897e6ca8f3af47d0) - **chore:** clean-up _(by Athan Reines)_
 -   [`912f3a6`](https://github.com/stdlib-js/stdlib/commit/912f3a62fff96a395602d3606ea32b7e0fd87f7c) - **feat:** add C implementation for `stats/base/dists/bernoulli/kurtosis` [(#3453)](https://github.com/stdlib-js/stdlib/pull/3453) _(by Vivek Maurya, Philipp Burckhardt, stdlib-bot)_
 -   [`975de6a`](https://github.com/stdlib-js/stdlib/commit/975de6ac8cf9349a047a39921ddf3f29a9b0d77e) - **docs:** replace manual `for` loop in examples [(#6280)](https://github.com/stdlib-js/stdlib/pull/6280) _(by Karan Anand)_
 -   [`f75a0ce`](https://github.com/stdlib-js/stdlib/commit/f75a0cef6a3112b166dba04c13bada9763cec350) - **chore:** use excess kurtosis consistently _(by Philipp Burckhardt)_
