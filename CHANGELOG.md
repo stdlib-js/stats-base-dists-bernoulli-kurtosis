@@ -4,7 +4,29 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-03-22)
+## Unreleased (2025-04-19)
+
+<section class="features">
+
+### Features
+
+-   [`912f3a6`](https://github.com/stdlib-js/stdlib/commit/912f3a62fff96a395602d3606ea32b7e0fd87f7c) - add C implementation for `stats/base/dists/bernoulli/kurtosis` [(#3453)](https://github.com/stdlib-js/stdlib/pull/3453)
+
+</section>
+
+<!-- /.features -->
+
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#3413](https://github.com/stdlib-js/stdlib/issues/3413)
+
+</section>
+
+<!-- /.issues -->
 
 <section class="commits">
 
@@ -12,6 +34,7 @@
 
 <details>
 
+-   [`912f3a6`](https://github.com/stdlib-js/stdlib/commit/912f3a62fff96a395602d3606ea32b7e0fd87f7c) - **feat:** add C implementation for `stats/base/dists/bernoulli/kurtosis` [(#3453)](https://github.com/stdlib-js/stdlib/pull/3453) _(by Vivek Maurya, Philipp Burckhardt, stdlib-bot)_
 -   [`975de6a`](https://github.com/stdlib-js/stdlib/commit/975de6ac8cf9349a047a39921ddf3f29a9b0d77e) - **docs:** replace manual `for` loop in examples [(#6280)](https://github.com/stdlib-js/stdlib/pull/6280) _(by Karan Anand)_
 -   [`f75a0ce`](https://github.com/stdlib-js/stdlib/commit/f75a0cef6a3112b166dba04c13bada9763cec350) - **chore:** use excess kurtosis consistently _(by Philipp Burckhardt)_
 -   [`802775e`](https://github.com/stdlib-js/stdlib/commit/802775ea028fb2a42041611187b6373b49f5f397) - **bench:** refactor random number generation in `stats/base/dists/bernoulli` [(#4775)](https://github.com/stdlib-js/stdlib/pull/4775) _(by Karan Anand, Athan Reines)_
@@ -26,11 +49,12 @@
 
 ### Contributors
 
-A total of 3 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
 -   Karan Anand
 -   Philipp Burckhardt
+-   Vivek Maurya
 
 </section>
 
